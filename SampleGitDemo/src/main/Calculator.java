@@ -6,6 +6,7 @@ public class Calculator {
 
 
 		System.out.println("Hollo world");
+		add(10, 20);
 
 	}
 	
